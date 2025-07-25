@@ -1280,3 +1280,5 @@ Did not find last_checkpoint to be resumed.
 07/25 18:41:06 - mmengine - INFO - Iter(train) [38950/80000]  lr: 1.0000e-04  eta: 5:30:00  time: 0.4838  data_time: 0.0054  memory: 5846  loss: 0.1286  decode.loss_ce: 0.0749  decode.acc_seg: 98.2383  aux.loss_ce: 0.0537  aux.acc_seg: 97.9053
 07/25 18:41:30 - mmengine - INFO - Exp name: fcn_r50-d8_4xb2-80k_MYDATA-512x1024_20250725_132743
 07/25 18:41:30 - mmengine - INFO - Iter(train) [39000/80000]  lr: 1.0000e-04  eta: 5:29:36  time: 0.4840  data_time: 0.0056  memory: 5846  loss: 0.1629  decode.loss_ce: 0.1038  decode.acc_seg: 97.9719  aux.loss_ce: 0.0591  aux.acc_seg: 96.3757
+07/25 18:41:54 - mmengine - INFO - Iter(train) [39050/80000]  lr: 1.0000e-04  eta: 5:29:12  time: 0.4841  data_time: 0.0055  memory: 5846  loss: 0.1522  decode.loss_ce: 0.1007  decode.acc_seg: 94.3190  aux.loss_ce: 0.0515  aux.acc_seg: 94.8556
+07/25 18:42:18 - mmengine - INFO - Iter(train) [39100/80000]  lr: 1.0000e-04  eta: 5:28:48  time: 0.4846  data_time: 0.0056  memory: 5846  loss: 0.1262  decode.loss_ce: 0.0831  decode.acc_seg: 94.9972  aux.loss_ce: 0.0431  aux.acc_seg: 94.2170
