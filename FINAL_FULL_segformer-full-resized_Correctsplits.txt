@@ -2742,3 +2742,68 @@ after_run:
 07/29 16:40:00 - mmengine - INFO - Iter(val) [1150/1317]    eta: 0:00:29  time: 0.1772  data_time: 0.0048  memory: 1570  
 07/29 16:40:09 - mmengine - INFO - Iter(val) [1200/1317]    eta: 0:00:20  time: 0.1773  data_time: 0.0049  memory: 1570  
 07/29 16:40:18 - mmengine - INFO - Iter(val) [1250/1317]    eta: 0:00:11  time: 0.1768  data_time: 0.0047  memory: 1570  
+07/29 16:40:27 - mmengine - INFO - Iter(val) [1300/1317]    eta: 0:00:03  time: 0.1756  data_time: 0.0041  memory: 1570  
+07/29 16:40:30 - mmengine - INFO - per class results:
+07/29 16:40:30 - mmengine - INFO - 
++------------------------------------+-------+-------+
+|               Class                |  IoU  |  Acc  |
++------------------------------------+-------+-------+
+|             background             | 98.81 | 99.67 |
+|            Aloo Dry fry            |  0.0  |  nan  |
+|      Avakaya Muddha Papu Rice      |  0.0  |  nan  |
+|      Baby-Corn & Capsicum-Dry      |  0.0  |  nan  |
+|           Cabbage Pakodi           |  0.0  |  nan  |
+|            Cabbage fry             |  15.2 | 15.28 |
+|       Capsicum Paneer Curry        |  0.0  |  nan  |
+|           Chakar-Pongal            |  nan  |  nan  |
+|            Chole-Masala            |  0.0  |  nan  |
+|        Cluster Beans Curry         |  0.0  |  nan  |
+|          Cucumber-Raitha           |  nan  |  nan  |
+|              Dal-Fry               |  0.0  |  nan  |
+|         Gobi Masala Curry          |  0.0  |  nan  |
+|        Gutti Vankaya Curry         | 80.64 |  82.1 |
+|             Jeera Rice             |  nan  |  nan  |
+|              Leaf Dal              |  0.0  |  0.0  |
+|            Mixed Curry             | 44.53 | 44.73 |
+|        ivy-dal-gourd-curry         |  0.0  |  nan  |
+|             Muskmelon              |  nan  |  nan  |
+|            Pappu-Charu             |  0.0  |  nan  |
+|               Rajma                |  0.04 |  0.04 |
+|              Rasgulla              | 21.91 | 21.93 |
+|               Sambar               |  33.9 | 34.57 |
+|            Tomato Rasam            |  0.0  |  nan  |
+|         Vankaya-Ali-Karam          |  0.0  |  nan  |
+|            Veg-Biriyani            |  0.0  |  nan  |
+|             aloo-curry             |  0.0  |  nan  |
+|                curd                |  94.9 | 96.86 |
+|                dal                 |  0.24 |  0.28 |
+|           fresh-chutney            | 34.74 | 38.61 |
+|            green-salad             | 86.77 | 94.22 |
+|         Moong-Beans-Curry          |  0.0  |  nan  |
+|              khichdi               | 12.12 | 12.18 |
+|             lemon-rice             | 87.98 | 96.55 |
+|        live-roti-with-ghee         | 96.46 | 97.94 |
+|    non-spicy-curry-bottle-gourd    |  0.0  |  nan  |
+|           non-spicy-dal            | 24.17 | 94.72 |
+|               papad                |  nan  |  nan  |
+|             plain-rice             | 94.72 | 96.51 |
+|             watermelon             | 86.45 |  95.7 |
+|              Aloo-Fry              |  0.0  |  nan  |
+|               Banana               |  0.0  |  nan  |
+|             Mix-Fruit              |  0.0  |  nan  |
+| Non-Spicy-Baby-Corn & Capsicum-Dry |  0.0  |  nan  |
+|               Sweet                |  nan  |  nan  |
+|            Tomato-Rice             |  0.0  |  nan  |
+|         fried-papad-rings          |  nan  |  nan  |
+|               gravy                |  nan  |  nan  |
+|           ivy-gourd-fry            |  0.0  |  nan  |
+|            mango-pickle            |  0.0  |  nan  |
+|             papad-chat             |  0.0  |  nan  |
+|            pepper-rasam            |  0.0  |  nan  |
+|             pineapple              |  nan  |  nan  |
+|              corn-fry              |  0.0  |  nan  |
+|          horse-gram-curry          |  0.0  |  nan  |
+|            paneer-curry            |  nan  |  nan  |
+|               semiya               |  nan  |  nan  |
++------------------------------------+-------+-------+
+07/29 16:40:30 - mmengine - INFO - Iter(val) [1317/1317]    aAcc: 95.5800  mIoU: 19.8600  mAcc: 56.7700  data_time: 0.0045  time: 0.1784
