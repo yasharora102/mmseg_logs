@@ -2752,3 +2752,74 @@ unexpected key in source state_dict: fc.weight, fc.bias
 07/30 08:59:02 - mmengine - INFO - Iter(val) [ 800/1222]    eta: 0:00:58  time: 0.1365  data_time: 0.0044  memory: 2433  
 07/30 08:59:09 - mmengine - INFO - Iter(val) [ 850/1222]    eta: 0:00:51  time: 0.1366  data_time: 0.0044  memory: 2433  
 07/30 08:59:16 - mmengine - INFO - Iter(val) [ 900/1222]    eta: 0:00:44  time: 0.1365  data_time: 0.0043  memory: 2433  
+07/30 08:59:23 - mmengine - INFO - Iter(val) [ 950/1222]    eta: 0:00:37  time: 0.1368  data_time: 0.0044  memory: 2433  
+07/30 08:59:30 - mmengine - INFO - Iter(val) [1000/1222]    eta: 0:00:30  time: 0.1372  data_time: 0.0045  memory: 2433  
+07/30 08:59:36 - mmengine - INFO - Iter(val) [1050/1222]    eta: 0:00:23  time: 0.1362  data_time: 0.0042  memory: 2433  
+07/30 08:59:43 - mmengine - INFO - Iter(val) [1100/1222]    eta: 0:00:16  time: 0.1361  data_time: 0.0042  memory: 2433  
+07/30 08:59:50 - mmengine - INFO - Iter(val) [1150/1222]    eta: 0:00:09  time: 0.1364  data_time: 0.0043  memory: 2433  
+07/30 08:59:57 - mmengine - INFO - Iter(val) [1200/1222]    eta: 0:00:03  time: 0.1364  data_time: 0.0042  memory: 2433  
+07/30 09:00:00 - mmengine - INFO - per class results:
+07/30 09:00:00 - mmengine - INFO - 
++------------------------------------+-------+-------+
+|               Class                |  IoU  |  Acc  |
++------------------------------------+-------+-------+
+|             background             | 99.11 | 99.62 |
+|            Aloo Dry fry            |  0.0  |  nan  |
+|      Avakaya Muddha Papu Rice      |  0.0  |  nan  |
+|      Baby-Corn & Capsicum-Dry      |  0.0  |  nan  |
+|           Cabbage Pakodi           |  0.0  |  nan  |
+|            Cabbage fry             | 19.68 | 19.79 |
+|       Capsicum Paneer Curry        |  0.0  |  nan  |
+|           Chakar-Pongal            |  nan  |  nan  |
+|            Chole-Masala            |  0.0  |  nan  |
+|        Cluster Beans Curry         |  0.0  |  nan  |
+|          Cucumber-Raitha           |  nan  |  nan  |
+|              Dal-Fry               |  0.0  |  nan  |
+|         Gobi Masala Curry          |  0.0  |  nan  |
+|        Gutti Vankaya Curry         | 37.44 | 37.96 |
+|             Jeera Rice             |  0.0  |  nan  |
+|              Leaf Dal              |  0.29 |  0.35 |
+|            Mixed Curry             | 81.03 | 84.45 |
+|        ivy-dal-gourd-curry         |  0.0  |  nan  |
+|             Muskmelon              |  0.0  |  nan  |
+|            Pappu-Charu             |  nan  |  nan  |
+|               Rajma                |  3.19 |  3.21 |
+|              Rasgulla              | 54.44 | 55.26 |
+|               Sambar               | 45.22 | 46.18 |
+|            Tomato Rasam            |  0.0  |  nan  |
+|         Vankaya-Ali-Karam          |  0.0  |  nan  |
+|            Veg-Biriyani            |  0.0  |  nan  |
+|             aloo-curry             |  0.0  |  nan  |
+|                curd                | 95.89 | 97.58 |
+|                dal                 |  0.61 |  0.84 |
+|           fresh-chutney            |  38.0 | 43.35 |
+|            green-salad             | 92.06 | 95.54 |
+|         Moong-Beans-Curry          |  0.0  |  nan  |
+|              khichdi               |  25.4 | 26.73 |
+|             lemon-rice             | 92.73 | 96.29 |
+|        live-roti-with-ghee         | 97.56 | 98.52 |
+|    non-spicy-curry-bottle-gourd    |  0.0  |  nan  |
+|           non-spicy-dal            |  25.3 | 87.22 |
+|               papad                |  0.0  |  nan  |
+|             plain-rice             | 95.22 | 97.04 |
+|             watermelon             | 78.47 | 92.96 |
+|              Aloo-Fry              |  nan  |  nan  |
+|               Banana               |  nan  |  nan  |
+|             Mix-Fruit              |  0.0  |  nan  |
+| Non-Spicy-Baby-Corn & Capsicum-Dry |  nan  |  nan  |
+|               Sweet                |  0.0  |  nan  |
+|            Tomato-Rice             |  0.0  |  nan  |
+|         fried-papad-rings          |  nan  |  nan  |
+|               gravy                |  nan  |  nan  |
+|           ivy-gourd-fry            |  nan  |  nan  |
+|            mango-pickle            |  0.0  |  nan  |
+|             papad-chat             |  nan  |  nan  |
+|            pepper-rasam            |  nan  |  nan  |
+|             pineapple              |  nan  |  nan  |
+|              corn-fry              |  nan  |  nan  |
+|          horse-gram-curry          |  nan  |  nan  |
+|            paneer-curry            |  nan  |  nan  |
+|               semiya               |  nan  |  nan  |
++------------------------------------+-------+-------+
+07/30 09:00:00 - mmengine - INFO - Iter(val) [1222/1222]    aAcc: 96.1100  mIoU: 23.9400  mAcc: 60.1600  data_time: 0.0048  time: 0.1385
+07/30 09:00:01 - mmengine - INFO - The best checkpoint with 23.9400 mIoU at 80000 iter is saved to best_mIoU_iter_80000.pth.
