@@ -2718,3 +2718,91 @@ after_run:
 07/31 02:39:22 - mmengine - INFO - Exp name: segformer_mit-b3_8xb1-160k_mydataset-512x1024_20250730_164849
 07/31 02:39:22 - mmengine - INFO - Iter(train) [80000/80000]  base_lr: 0.0000e+00 lr: 0.0000e+00  eta: 0:00:00  time: 0.4450  data_time: 0.0106  memory: 6869  loss: 0.0606  decode.loss_ce: 0.0606  decode.acc_seg: 97.9684
 07/31 02:39:22 - mmengine - INFO - Saving checkpoint at 80000 iterations
+07/31 02:39:37 - mmengine - INFO - Iter(val) [  50/1222]    eta: 0:04:55  time: 0.1778  data_time: 0.0046  memory: 5108  
+07/31 02:39:46 - mmengine - INFO - Iter(val) [ 100/1222]    eta: 0:04:00  time: 0.1775  data_time: 0.0043  memory: 1568  
+07/31 02:39:55 - mmengine - INFO - Iter(val) [ 150/1222]    eta: 0:03:36  time: 0.1774  data_time: 0.0042  memory: 1568  
+07/31 02:40:03 - mmengine - INFO - Iter(val) [ 200/1222]    eta: 0:03:20  time: 0.1778  data_time: 0.0045  memory: 1568  
+07/31 02:40:12 - mmengine - INFO - Iter(val) [ 250/1222]    eta: 0:03:07  time: 0.1779  data_time: 0.0043  memory: 1568  
+07/31 02:40:21 - mmengine - INFO - Iter(val) [ 300/1222]    eta: 0:02:55  time: 0.1783  data_time: 0.0045  memory: 1568  
+07/31 02:40:30 - mmengine - INFO - Iter(val) [ 350/1222]    eta: 0:02:44  time: 0.1780  data_time: 0.0044  memory: 1568  
+07/31 02:40:39 - mmengine - INFO - Iter(val) [ 400/1222]    eta: 0:02:33  time: 0.1779  data_time: 0.0044  memory: 1568  
+07/31 02:40:48 - mmengine - INFO - Iter(val) [ 450/1222]    eta: 0:02:23  time: 0.1784  data_time: 0.0044  memory: 1568  
+07/31 02:40:57 - mmengine - INFO - Iter(val) [ 500/1222]    eta: 0:02:13  time: 0.1787  data_time: 0.0046  memory: 1568  
+07/31 02:41:06 - mmengine - INFO - Iter(val) [ 550/1222]    eta: 0:02:04  time: 0.1783  data_time: 0.0044  memory: 1568  
+07/31 02:41:15 - mmengine - INFO - Iter(val) [ 600/1222]    eta: 0:01:54  time: 0.1776  data_time: 0.0041  memory: 1568  
+07/31 02:41:24 - mmengine - INFO - Iter(val) [ 650/1222]    eta: 0:01:45  time: 0.1777  data_time: 0.0041  memory: 1568  
+07/31 02:41:32 - mmengine - INFO - Iter(val) [ 700/1222]    eta: 0:01:35  time: 0.1775  data_time: 0.0041  memory: 1568  
+07/31 02:41:41 - mmengine - INFO - Iter(val) [ 750/1222]    eta: 0:01:26  time: 0.1776  data_time: 0.0041  memory: 1568  
+07/31 02:41:50 - mmengine - INFO - Iter(val) [ 800/1222]    eta: 0:01:17  time: 0.1774  data_time: 0.0040  memory: 1568  
+07/31 02:41:59 - mmengine - INFO - Iter(val) [ 850/1222]    eta: 0:01:07  time: 0.1777  data_time: 0.0041  memory: 1568  
+07/31 02:42:08 - mmengine - INFO - Iter(val) [ 900/1222]    eta: 0:00:58  time: 0.1777  data_time: 0.0041  memory: 1568  
+07/31 02:42:17 - mmengine - INFO - Iter(val) [ 950/1222]    eta: 0:00:49  time: 0.1778  data_time: 0.0042  memory: 1568  
+07/31 02:42:26 - mmengine - INFO - Iter(val) [1000/1222]    eta: 0:00:40  time: 0.1778  data_time: 0.0041  memory: 1568  
+07/31 02:42:35 - mmengine - INFO - Iter(val) [1050/1222]    eta: 0:00:31  time: 0.1778  data_time: 0.0041  memory: 1568  
+07/31 02:42:44 - mmengine - INFO - Iter(val) [1100/1222]    eta: 0:00:22  time: 0.1774  data_time: 0.0040  memory: 1568  
+07/31 02:42:52 - mmengine - INFO - Iter(val) [1150/1222]    eta: 0:00:13  time: 0.1778  data_time: 0.0041  memory: 1568  
+07/31 02:43:01 - mmengine - INFO - Iter(val) [1200/1222]    eta: 0:00:03  time: 0.1779  data_time: 0.0042  memory: 1568  
+07/31 02:43:05 - mmengine - INFO - per class results:
+07/31 02:43:05 - mmengine - INFO - 
++------------------------------------+-------+-------+
+|               Class                |  IoU  |  Acc  |
++------------------------------------+-------+-------+
+|             background             | 98.82 | 99.64 |
+|            Aloo Dry fry            |  0.0  |  nan  |
+|      Avakaya Muddha Papu Rice      |  0.0  |  nan  |
+|      Baby-Corn & Capsicum-Dry      |  0.0  |  nan  |
+|           Cabbage Pakodi           |  0.0  |  nan  |
+|            Cabbage fry             |  0.54 |  0.54 |
+|       Capsicum Paneer Curry        |  0.0  |  nan  |
+|           Chakar-Pongal            |  nan  |  nan  |
+|            Chole-Masala            |  0.0  |  nan  |
+|        Cluster Beans Curry         |  0.0  |  nan  |
+|          Cucumber-Raitha           |  nan  |  nan  |
+|              Dal-Fry               |  0.0  |  nan  |
+|         Gobi Masala Curry          |  0.0  |  nan  |
+|        Gutti Vankaya Curry         | 85.77 | 88.51 |
+|             Jeera Rice             |  0.0  |  nan  |
+|              Leaf Dal              |  0.4  |  0.4  |
+|            Mixed Curry             | 69.34 | 70.18 |
+|        ivy-dal-gourd-curry         |  0.0  |  nan  |
+|             Muskmelon              |  nan  |  nan  |
+|            Pappu-Charu             |  0.0  |  nan  |
+|               Rajma                |  0.0  |  0.0  |
+|              Rasgulla              | 14.29 | 14.32 |
+|               Sambar               | 22.36 | 22.82 |
+|            Tomato Rasam            |  0.0  |  nan  |
+|         Vankaya-Ali-Karam          |  0.0  |  nan  |
+|            Veg-Biriyani            |  0.0  |  nan  |
+|             aloo-curry             |  0.0  |  nan  |
+|                curd                | 94.72 | 96.67 |
+|                dal                 |  0.03 |  0.04 |
+|           fresh-chutney            | 31.66 | 46.48 |
+|            green-salad             | 87.87 | 94.45 |
+|         Moong-Beans-Curry          |  0.0  |  nan  |
+|              khichdi               | 15.48 | 15.62 |
+|             lemon-rice             | 91.27 | 94.28 |
+|        live-roti-with-ghee         | 96.79 | 97.91 |
+|    non-spicy-curry-bottle-gourd    |  0.0  |  nan  |
+|           non-spicy-dal            | 31.24 |  95.1 |
+|               papad                |  0.0  |  nan  |
+|             plain-rice             | 94.63 | 96.55 |
+|             watermelon             | 90.02 |  92.9 |
+|              Aloo-Fry              |  0.0  |  nan  |
+|               Banana               |  nan  |  nan  |
+|             Mix-Fruit              |  0.0  |  nan  |
+| Non-Spicy-Baby-Corn & Capsicum-Dry |  0.0  |  nan  |
+|               Sweet                |  nan  |  nan  |
+|            Tomato-Rice             |  0.0  |  nan  |
+|         fried-papad-rings          |  nan  |  nan  |
+|               gravy                |  0.0  |  nan  |
+|           ivy-gourd-fry            |  0.0  |  nan  |
+|            mango-pickle            |  0.0  |  nan  |
+|             papad-chat             |  0.0  |  nan  |
+|            pepper-rasam            |  0.0  |  nan  |
+|             pineapple              |  nan  |  nan  |
+|              corn-fry              |  0.0  |  nan  |
+|          horse-gram-curry          |  0.0  |  nan  |
+|            paneer-curry            |  nan  |  nan  |
+|               semiya               |  nan  |  nan  |
++------------------------------------+-------+-------+
+07/31 02:43:05 - mmengine - INFO - Iter(val) [1222/1222]    aAcc: 95.6100  mIoU: 19.2800  mAcc: 57.0200  data_time: 0.0045  time: 0.1809
