@@ -3233,3 +3233,99 @@ Loads checkpoint by http backend from path: https://download.openmmlab.com/mmseg
 08/01 04:22:42 - mmengine - INFO - Iter(train) [79650/80000]  base_lr: 7.5316e-07 lr: 7.5316e-08  eta: 0:02:51  time: 0.4941  data_time: 0.0111  memory: 5898  grad_norm: 44.6724  loss: 5.9370  decode.loss_cls: 0.0154  decode.loss_mask: 0.2154  decode.loss_dice: 0.2712  decode.d0.loss_cls: 0.8463  decode.d0.loss_mask: 0.2123  decode.d0.loss_dice: 0.2732  decode.d1.loss_cls: 0.0167  decode.d1.loss_mask: 0.2139  decode.d1.loss_dice: 0.2701  decode.d2.loss_cls: 0.0114  decode.d2.loss_mask: 0.2143  decode.d2.loss_dice: 0.2782  decode.d3.loss_cls: 0.0181  decode.d3.loss_mask: 0.2155  decode.d3.loss_dice: 0.2821  decode.d4.loss_cls: 0.0144  decode.d4.loss_mask: 0.2168  decode.d4.loss_dice: 0.2773  decode.d5.loss_cls: 0.0130  decode.d5.loss_mask: 0.2169  decode.d5.loss_dice: 0.2768  decode.d6.loss_cls: 0.0139  decode.d6.loss_mask: 0.2168  decode.d6.loss_dice: 0.2702  decode.d7.loss_cls: 0.0587  decode.d7.loss_mask: 0.2126  decode.d7.loss_dice: 0.2453  decode.d8.loss_cls: 0.0792  decode.d8.loss_mask: 0.2144  decode.d8.loss_dice: 0.2566
 08/01 04:23:07 - mmengine - INFO - Iter(train) [79700/80000]  base_lr: 6.5559e-07 lr: 6.5559e-08  eta: 0:02:26  time: 0.4960  data_time: 0.0112  memory: 5881  grad_norm: 83.2346  loss: 6.7218  decode.loss_cls: 0.1268  decode.loss_mask: 0.2520  decode.loss_dice: 0.2249  decode.d0.loss_cls: 0.9787  decode.d0.loss_mask: 0.2567  decode.d0.loss_dice: 0.2135  decode.d1.loss_cls: 0.1372  decode.d1.loss_mask: 0.2481  decode.d1.loss_dice: 0.2194  decode.d2.loss_cls: 0.1038  decode.d2.loss_mask: 0.2492  decode.d2.loss_dice: 0.2196  decode.d3.loss_cls: 0.0998  decode.d3.loss_mask: 0.2497  decode.d3.loss_dice: 0.2212  decode.d4.loss_cls: 0.1051  decode.d4.loss_mask: 0.2513  decode.d4.loss_dice: 0.2194  decode.d5.loss_cls: 0.1186  decode.d5.loss_mask: 0.2520  decode.d5.loss_dice: 0.2207  decode.d6.loss_cls: 0.1243  decode.d6.loss_mask: 0.2506  decode.d6.loss_dice: 0.2172  decode.d7.loss_cls: 0.1112  decode.d7.loss_mask: 0.2482  decode.d7.loss_dice: 0.2183  decode.d8.loss_cls: 0.1077  decode.d8.loss_mask: 0.2496  decode.d8.loss_dice: 0.2273
 08/01 04:23:32 - mmengine - INFO - Iter(train) [79750/80000]  base_lr: 5.5638e-07 lr: 5.5638e-08  eta: 0:02:02  time: 0.4938  data_time: 0.0112  memory: 5936  grad_norm: 36.7801  loss: 5.9804  decode.loss_cls: 0.0643  decode.loss_mask: 0.2050  decode.loss_dice: 0.2562  decode.d0.loss_cls: 0.9090  decode.d0.loss_mask: 0.2136  decode.d0.loss_dice: 0.2572  decode.d1.loss_cls: 0.1120  decode.d1.loss_mask: 0.2073  decode.d1.loss_dice: 0.2466  decode.d2.loss_cls: 0.0354  decode.d2.loss_mask: 0.2069  decode.d2.loss_dice: 0.2547  decode.d3.loss_cls: 0.0410  decode.d3.loss_mask: 0.2027  decode.d3.loss_dice: 0.2573  decode.d4.loss_cls: 0.0381  decode.d4.loss_mask: 0.2025  decode.d4.loss_dice: 0.2619  decode.d5.loss_cls: 0.0616  decode.d5.loss_mask: 0.2052  decode.d5.loss_dice: 0.2178  decode.d6.loss_cls: 0.0593  decode.d6.loss_mask: 0.2039  decode.d6.loss_dice: 0.2301  decode.d7.loss_cls: 0.0455  decode.d7.loss_mask: 0.2036  decode.d7.loss_dice: 0.2532  decode.d8.loss_cls: 0.0656  decode.d8.loss_mask: 0.2050  decode.d8.loss_dice: 0.2579
+08/01 04:23:57 - mmengine - INFO - Iter(train) [79800/80000]  base_lr: 4.5515e-07 lr: 4.5515e-08  eta: 0:01:37  time: 0.4940  data_time: 0.0113  memory: 5932  grad_norm: 40.6956  loss: 5.5877  decode.loss_cls: 0.0091  decode.loss_mask: 0.2029  decode.loss_dice: 0.2435  decode.d0.loss_cls: 0.8320  decode.d0.loss_mask: 0.2069  decode.d0.loss_dice: 0.2822  decode.d1.loss_cls: 0.0366  decode.d1.loss_mask: 0.2005  decode.d1.loss_dice: 0.2520  decode.d2.loss_cls: 0.0490  decode.d2.loss_mask: 0.2037  decode.d2.loss_dice: 0.2577  decode.d3.loss_cls: 0.0120  decode.d3.loss_mask: 0.2033  decode.d3.loss_dice: 0.2447  decode.d4.loss_cls: 0.0108  decode.d4.loss_mask: 0.2016  decode.d4.loss_dice: 0.2522  decode.d5.loss_cls: 0.0127  decode.d5.loss_mask: 0.2035  decode.d5.loss_dice: 0.2576  decode.d6.loss_cls: 0.0292  decode.d6.loss_mask: 0.2024  decode.d6.loss_dice: 0.2447  decode.d7.loss_cls: 0.0100  decode.d7.loss_mask: 0.2019  decode.d7.loss_dice: 0.2630  decode.d8.loss_cls: 0.0092  decode.d8.loss_mask: 0.2040  decode.d8.loss_dice: 0.2489
+08/01 04:24:21 - mmengine - INFO - Iter(train) [79850/80000]  base_lr: 3.5132e-07 lr: 3.5132e-08  eta: 0:01:13  time: 0.4963  data_time: 0.0113  memory: 5916  grad_norm: 63.3993  loss: 5.6635  decode.loss_cls: 0.0058  decode.loss_mask: 0.2332  decode.loss_dice: 0.2468  decode.d0.loss_cls: 0.8004  decode.d0.loss_mask: 0.2476  decode.d0.loss_dice: 0.2509  decode.d1.loss_cls: 0.0109  decode.d1.loss_mask: 0.2349  decode.d1.loss_dice: 0.2497  decode.d2.loss_cls: 0.0089  decode.d2.loss_mask: 0.2317  decode.d2.loss_dice: 0.2504  decode.d3.loss_cls: 0.0069  decode.d3.loss_mask: 0.2298  decode.d3.loss_dice: 0.2435  decode.d4.loss_cls: 0.0081  decode.d4.loss_mask: 0.2321  decode.d4.loss_dice: 0.2409  decode.d5.loss_cls: 0.0075  decode.d5.loss_mask: 0.2341  decode.d5.loss_dice: 0.2427  decode.d6.loss_cls: 0.0062  decode.d6.loss_mask: 0.2340  decode.d6.loss_dice: 0.2414  decode.d7.loss_cls: 0.0072  decode.d7.loss_mask: 0.2326  decode.d7.loss_dice: 0.2428  decode.d8.loss_cls: 0.0060  decode.d8.loss_mask: 0.2344  decode.d8.loss_dice: 0.2421
+08/01 04:24:46 - mmengine - INFO - Iter(train) [79900/80000]  base_lr: 2.4391e-07 lr: 2.4391e-08  eta: 0:00:48  time: 0.4944  data_time: 0.0114  memory: 5920  grad_norm: 95.5896  loss: 7.2156  decode.loss_cls: 0.0523  decode.loss_mask: 0.2693  decode.loss_dice: 0.3036  decode.d0.loss_cls: 0.9388  decode.d0.loss_mask: 0.2788  decode.d0.loss_dice: 0.2679  decode.d1.loss_cls: 0.0903  decode.d1.loss_mask: 0.2733  decode.d1.loss_dice: 0.2652  decode.d2.loss_cls: 0.0934  decode.d2.loss_mask: 0.2724  decode.d2.loss_dice: 0.2886  decode.d3.loss_cls: 0.0541  decode.d3.loss_mask: 0.2714  decode.d3.loss_dice: 0.3099  decode.d4.loss_cls: 0.0847  decode.d4.loss_mask: 0.2730  decode.d4.loss_dice: 0.2676  decode.d5.loss_cls: 0.0728  decode.d5.loss_mask: 0.2730  decode.d5.loss_dice: 0.2884  decode.d6.loss_cls: 0.1026  decode.d6.loss_mask: 0.2715  decode.d6.loss_dice: 0.2997  decode.d7.loss_cls: 0.0613  decode.d7.loss_mask: 0.2715  decode.d7.loss_dice: 0.2900  decode.d8.loss_cls: 0.0593  decode.d8.loss_mask: 0.2718  decode.d8.loss_dice: 0.2993
+08/01 04:25:11 - mmengine - INFO - Iter(train) [79950/80000]  base_lr: 1.3071e-07 lr: 1.3071e-08  eta: 0:00:24  time: 0.5122  data_time: 0.0112  memory: 5897  grad_norm: 136.6302  loss: 6.1549  decode.loss_cls: 0.0746  decode.loss_mask: 0.1934  decode.loss_dice: 0.2348  decode.d0.loss_cls: 0.9540  decode.d0.loss_mask: 0.1964  decode.d0.loss_dice: 0.2362  decode.d1.loss_cls: 0.1263  decode.d1.loss_mask: 0.1918  decode.d1.loss_dice: 0.2221  decode.d2.loss_cls: 0.1104  decode.d2.loss_mask: 0.1922  decode.d2.loss_dice: 0.2238  decode.d3.loss_cls: 0.1004  decode.d3.loss_mask: 0.1933  decode.d3.loss_dice: 0.2427  decode.d4.loss_cls: 0.0783  decode.d4.loss_mask: 0.1954  decode.d4.loss_dice: 0.2393  decode.d5.loss_cls: 0.0977  decode.d5.loss_mask: 0.1941  decode.d5.loss_dice: 0.2378  decode.d6.loss_cls: 0.0792  decode.d6.loss_mask: 0.1936  decode.d6.loss_dice: 0.2401  decode.d7.loss_cls: 0.1168  decode.d7.loss_mask: 0.1952  decode.d7.loss_dice: 0.2497  decode.d8.loss_cls: 0.1047  decode.d8.loss_mask: 0.1940  decode.d8.loss_dice: 0.2467
+08/01 04:25:36 - mmengine - INFO - Exp name: mask2former_swin-t_8xb2-80k_MYDATA-512x1024_20250731_173226
+08/01 04:25:36 - mmengine - INFO - Iter(train) [80000/80000]  base_lr: 0.0000e+00 lr: 0.0000e+00  eta: 0:00:00  time: 0.4941  data_time: 0.0113  memory: 5881  grad_norm: 41.5564  loss: 5.6237  decode.loss_cls: 0.0597  decode.loss_mask: 0.2288  decode.loss_dice: 0.1952  decode.d0.loss_cls: 0.9398  decode.d0.loss_mask: 0.2355  decode.d0.loss_dice: 0.1946  decode.d1.loss_cls: 0.0201  decode.d1.loss_mask: 0.2339  decode.d1.loss_dice: 0.2196  decode.d2.loss_cls: 0.0419  decode.d2.loss_mask: 0.2330  decode.d2.loss_dice: 0.2011  decode.d3.loss_cls: 0.0380  decode.d3.loss_mask: 0.2301  decode.d3.loss_dice: 0.1954  decode.d4.loss_cls: 0.0099  decode.d4.loss_mask: 0.2307  decode.d4.loss_dice: 0.2123  decode.d5.loss_cls: 0.0106  decode.d5.loss_mask: 0.2328  decode.d5.loss_dice: 0.2128  decode.d6.loss_cls: 0.0515  decode.d6.loss_mask: 0.2308  decode.d6.loss_dice: 0.1987  decode.d7.loss_cls: 0.0527  decode.d7.loss_mask: 0.2321  decode.d7.loss_dice: 0.1961  decode.d8.loss_cls: 0.0589  decode.d8.loss_mask: 0.2309  decode.d8.loss_dice: 0.1960
+08/01 04:25:36 - mmengine - INFO - Saving checkpoint at 80000 iterations
+08/01 04:25:47 - mmengine - INFO - Iter(val) [  50/1222]    eta: 0:03:37  time: 0.1562  data_time: 0.0040  memory: 7281  
+08/01 04:25:55 - mmengine - INFO - Iter(val) [ 100/1222]    eta: 0:03:11  time: 0.1563  data_time: 0.0040  memory: 2375  
+08/01 04:26:03 - mmengine - INFO - Iter(val) [ 150/1222]    eta: 0:02:57  time: 0.1560  data_time: 0.0038  memory: 2375  
+08/01 04:26:11 - mmengine - INFO - Iter(val) [ 200/1222]    eta: 0:02:47  time: 0.1561  data_time: 0.0039  memory: 2375  
+08/01 04:26:19 - mmengine - INFO - Iter(val) [ 250/1222]    eta: 0:02:37  time: 0.1568  data_time: 0.0038  memory: 2375  
+08/01 04:26:26 - mmengine - INFO - Iter(val) [ 300/1222]    eta: 0:02:28  time: 0.1573  data_time: 0.0041  memory: 2375  
+08/01 04:26:34 - mmengine - INFO - Iter(val) [ 350/1222]    eta: 0:02:20  time: 0.1564  data_time: 0.0038  memory: 2375  
+08/01 04:26:42 - mmengine - INFO - Iter(val) [ 400/1222]    eta: 0:02:11  time: 0.1561  data_time: 0.0037  memory: 2375  
+08/01 04:26:50 - mmengine - INFO - Iter(val) [ 450/1222]    eta: 0:02:03  time: 0.1567  data_time: 0.0038  memory: 2375  
+08/01 04:26:58 - mmengine - INFO - Iter(val) [ 500/1222]    eta: 0:01:55  time: 0.1566  data_time: 0.0038  memory: 2375  
+08/01 04:27:06 - mmengine - INFO - Iter(val) [ 550/1222]    eta: 0:01:46  time: 0.1568  data_time: 0.0038  memory: 2375  
+08/01 04:27:13 - mmengine - INFO - Iter(val) [ 600/1222]    eta: 0:01:38  time: 0.1567  data_time: 0.0038  memory: 2375  
+08/01 04:27:21 - mmengine - INFO - Iter(val) [ 650/1222]    eta: 0:01:30  time: 0.1568  data_time: 0.0038  memory: 2375  
+08/01 04:27:29 - mmengine - INFO - Iter(val) [ 700/1222]    eta: 0:01:22  time: 0.1569  data_time: 0.0039  memory: 2375  
+08/01 04:27:37 - mmengine - INFO - Iter(val) [ 750/1222]    eta: 0:01:14  time: 0.1571  data_time: 0.0040  memory: 2375  
+08/01 04:27:45 - mmengine - INFO - Iter(val) [ 800/1222]    eta: 0:01:06  time: 0.1568  data_time: 0.0039  memory: 2375  
+08/01 04:27:53 - mmengine - INFO - Iter(val) [ 850/1222]    eta: 0:00:58  time: 0.1568  data_time: 0.0040  memory: 2375  
+08/01 04:28:01 - mmengine - INFO - Iter(val) [ 900/1222]    eta: 0:00:50  time: 0.1569  data_time: 0.0040  memory: 2375  
+08/01 04:28:08 - mmengine - INFO - Iter(val) [ 950/1222]    eta: 0:00:43  time: 0.1567  data_time: 0.0040  memory: 2375  
+08/01 04:28:16 - mmengine - INFO - Iter(val) [1000/1222]    eta: 0:00:35  time: 0.1569  data_time: 0.0040  memory: 2375  
+08/01 04:28:24 - mmengine - INFO - Iter(val) [1050/1222]    eta: 0:00:27  time: 0.1570  data_time: 0.0039  memory: 2375  
+08/01 04:28:32 - mmengine - INFO - Iter(val) [1100/1222]    eta: 0:00:19  time: 0.1565  data_time: 0.0039  memory: 2375  
+08/01 04:28:40 - mmengine - INFO - Iter(val) [1150/1222]    eta: 0:00:11  time: 0.1570  data_time: 0.0040  memory: 2375  
+08/01 04:28:48 - mmengine - INFO - Iter(val) [1200/1222]    eta: 0:00:03  time: 0.1569  data_time: 0.0040  memory: 2375  
+08/01 04:28:51 - mmengine - INFO - per class results:
+08/01 04:28:51 - mmengine - INFO - 
++------------------------------------+-------+-------+
+|               Class                |  IoU  |  Acc  |
++------------------------------------+-------+-------+
+|             background             | 99.09 | 99.61 |
+|            Aloo Dry fry            |  0.0  |  nan  |
+|      Avakaya Muddha Papu Rice      |  0.0  |  nan  |
+|      Baby-Corn & Capsicum-Dry      |  0.0  |  nan  |
+|           Cabbage Pakodi           |  nan  |  nan  |
+|            Cabbage fry             |  5.59 |  5.6  |
+|       Capsicum Paneer Curry        |  0.0  |  nan  |
+|           Chakar-Pongal            |  nan  |  nan  |
+|            Chole-Masala            |  0.0  |  nan  |
+|        Cluster Beans Curry         |  0.0  |  nan  |
+|          Cucumber-Raitha           |  nan  |  nan  |
+|              Dal-Fry               |  0.0  |  nan  |
+|         Gobi Masala Curry          |  0.0  |  nan  |
+|        Gutti Vankaya Curry         | 58.04 | 58.96 |
+|             Jeera Rice             |  0.0  |  nan  |
+|              Leaf Dal              |  0.0  |  0.0  |
+|            Mixed Curry             | 92.57 | 96.55 |
+|        ivy-dal-gourd-curry         |  0.0  |  nan  |
+|             Muskmelon              |  0.0  |  nan  |
+|            Pappu-Charu             |  nan  |  nan  |
+|               Rajma                |  0.01 |  0.01 |
+|              Rasgulla              | 35.13 | 35.67 |
+|               Sambar               | 40.74 | 41.82 |
+|            Tomato Rasam            |  0.0  |  nan  |
+|         Vankaya-Ali-Karam          |  nan  |  nan  |
+|            Veg-Biriyani            |  0.0  |  nan  |
+|             aloo-curry             |  0.0  |  nan  |
+|                curd                | 95.82 | 97.31 |
+|                dal                 | 10.87 | 13.82 |
+|           fresh-chutney            | 33.85 | 37.66 |
+|            green-salad             | 89.98 | 95.71 |
+|         Moong-Beans-Curry          |  0.0  |  nan  |
+|              khichdi               | 26.59 | 27.51 |
+|             lemon-rice             | 93.48 | 96.57 |
+|        live-roti-with-ghee         |  97.5 | 98.47 |
+|    non-spicy-curry-bottle-gourd    |  0.0  |  nan  |
+|           non-spicy-dal            | 46.04 | 95.63 |
+|               papad                |  0.0  |  nan  |
+|             plain-rice             | 95.15 | 96.94 |
+|             watermelon             | 77.91 | 95.72 |
+|              Aloo-Fry              |  nan  |  nan  |
+|               Banana               |  nan  |  nan  |
+|             Mix-Fruit              |  0.0  |  nan  |
+| Non-Spicy-Baby-Corn & Capsicum-Dry |  nan  |  nan  |
+|               Sweet                |  0.0  |  nan  |
+|            Tomato-Rice             |  0.0  |  nan  |
+|         fried-papad-rings          |  nan  |  nan  |
+|               gravy                |  nan  |  nan  |
+|           ivy-gourd-fry            |  nan  |  nan  |
+|            mango-pickle            |  0.0  |  nan  |
+|             papad-chat             |  nan  |  nan  |
+|            pepper-rasam            |  nan  |  nan  |
+|             pineapple              |  nan  |  nan  |
+|              corn-fry              |  nan  |  nan  |
+|          horse-gram-curry          |  nan  |  nan  |
+|            paneer-curry            |  nan  |  nan  |
+|               semiya               |  nan  |  nan  |
++------------------------------------+-------+-------+
+08/01 04:28:51 - mmengine - INFO - Iter(val) [1222/1222]    aAcc: 96.1100  mIoU: 25.6000  mAcc: 60.7500  data_time: 0.0044  time: 0.1579
+08/01 04:28:53 - mmengine - INFO - The best checkpoint with 25.6000 mIoU at 80000 iter is saved to best_mIoU_iter_80000.pth.
