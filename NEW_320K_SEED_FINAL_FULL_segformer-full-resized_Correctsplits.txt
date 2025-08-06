@@ -1845,3 +1845,29 @@ after_run:
 08/06 08:42:17 - mmengine - INFO - Iter(train) [ 39000/320000]  base_lr: 5.3186e-05 lr: 5.3186e-05  eta: 1 day, 22:16:13  time: 0.6061  data_time: 0.0108  memory: 6800  loss: 0.0582  decode.loss_ce: 0.0582  decode.acc_seg: 97.6404
 08/06 08:42:48 - mmengine - INFO - Iter(train) [ 39050/320000]  base_lr: 5.3177e-05 lr: 5.3177e-05  eta: 1 day, 22:15:47  time: 0.6061  data_time: 0.0101  memory: 6800  loss: 0.0513  decode.loss_ce: 0.0513  decode.acc_seg: 98.9115
 08/06 08:43:18 - mmengine - INFO - Iter(train) [ 39100/320000]  base_lr: 5.3167e-05 lr: 5.3167e-05  eta: 1 day, 22:15:22  time: 0.6042  data_time: 0.0101  memory: 6800  loss: 0.0440  decode.loss_ce: 0.0440  decode.acc_seg: 98.1683
+08/06 08:43:48 - mmengine - INFO - Iter(train) [ 39150/320000]  base_lr: 5.3158e-05 lr: 5.3158e-05  eta: 1 day, 22:14:56  time: 0.6033  data_time: 0.0111  memory: 6800  loss: 0.0490  decode.loss_ce: 0.0490  decode.acc_seg: 98.3608
+08/06 08:44:18 - mmengine - INFO - Iter(train) [ 39200/320000]  base_lr: 5.3148e-05 lr: 5.3148e-05  eta: 1 day, 22:14:29  time: 0.5987  data_time: 0.0108  memory: 6800  loss: 0.0465  decode.loss_ce: 0.0465  decode.acc_seg: 98.6791
+08/06 08:44:48 - mmengine - INFO - Iter(train) [ 39250/320000]  base_lr: 5.3139e-05 lr: 5.3139e-05  eta: 1 day, 22:14:01  time: 0.5952  data_time: 0.0102  memory: 6800  loss: 0.0594  decode.loss_ce: 0.0594  decode.acc_seg: 98.2509
+08/06 08:45:18 - mmengine - INFO - Iter(train) [ 39300/320000]  base_lr: 5.3130e-05 lr: 5.3130e-05  eta: 1 day, 22:13:33  time: 0.5958  data_time: 0.0107  memory: 6800  loss: 0.0716  decode.loss_ce: 0.0716  decode.acc_seg: 96.4288
+08/06 08:45:47 - mmengine - INFO - Iter(train) [ 39350/320000]  base_lr: 5.3120e-05 lr: 5.3120e-05  eta: 1 day, 22:13:03  time: 0.5912  data_time: 0.0110  memory: 6800  loss: 0.0597  decode.loss_ce: 0.0597  decode.acc_seg: 97.3484
+08/06 08:46:17 - mmengine - INFO - Iter(train) [ 39400/320000]  base_lr: 5.3111e-05 lr: 5.3111e-05  eta: 1 day, 22:12:34  time: 0.5919  data_time: 0.0111  memory: 6800  loss: 0.0764  decode.loss_ce: 0.0764  decode.acc_seg: 98.5917
+08/06 08:46:47 - mmengine - INFO - Iter(train) [ 39450/320000]  base_lr: 5.3101e-05 lr: 5.3101e-05  eta: 1 day, 22:12:03  time: 0.5895  data_time: 0.0106  memory: 6800  loss: 0.0548  decode.loss_ce: 0.0548  decode.acc_seg: 96.7768
+08/06 08:47:16 - mmengine - INFO - Iter(train) [ 39500/320000]  base_lr: 5.3092e-05 lr: 5.3092e-05  eta: 1 day, 22:11:32  time: 0.5914  data_time: 0.0106  memory: 6800  loss: 0.0343  decode.loss_ce: 0.0343  decode.acc_seg: 99.1467
+08/06 08:47:46 - mmengine - INFO - Iter(train) [ 39550/320000]  base_lr: 5.3082e-05 lr: 5.3082e-05  eta: 1 day, 22:11:03  time: 0.5917  data_time: 0.0105  memory: 6800  loss: 0.0388  decode.loss_ce: 0.0388  decode.acc_seg: 98.7806
+08/06 08:48:15 - mmengine - INFO - Iter(train) [ 39600/320000]  base_lr: 5.3073e-05 lr: 5.3073e-05  eta: 1 day, 22:10:33  time: 0.6002  data_time: 0.0110  memory: 6800  loss: 0.0529  decode.loss_ce: 0.0529  decode.acc_seg: 98.3374
+08/06 08:48:45 - mmengine - INFO - Iter(train) [ 39650/320000]  base_lr: 5.3063e-05 lr: 5.3063e-05  eta: 1 day, 22:10:02  time: 0.5874  data_time: 0.0108  memory: 6800  loss: 0.0477  decode.loss_ce: 0.0477  decode.acc_seg: 98.4953
+08/06 08:49:14 - mmengine - INFO - Iter(train) [ 39700/320000]  base_lr: 5.3054e-05 lr: 5.3054e-05  eta: 1 day, 22:09:30  time: 0.5877  data_time: 0.0103  memory: 6800  loss: 0.0520  decode.loss_ce: 0.0520  decode.acc_seg: 97.9011
+08/06 08:49:44 - mmengine - INFO - Iter(train) [ 39750/320000]  base_lr: 5.3044e-05 lr: 5.3044e-05  eta: 1 day, 22:09:00  time: 0.5889  data_time: 0.0103  memory: 6800  loss: 0.0529  decode.loss_ce: 0.0529  decode.acc_seg: 97.3099
+08/06 08:50:13 - mmengine - INFO - Iter(train) [ 39800/320000]  base_lr: 5.3035e-05 lr: 5.3035e-05  eta: 1 day, 22:08:29  time: 0.5878  data_time: 0.0104  memory: 6800  loss: 0.1115  decode.loss_ce: 0.1115  decode.acc_seg: 98.5249
+08/06 08:50:43 - mmengine - INFO - Iter(train) [ 39850/320000]  base_lr: 5.3025e-05 lr: 5.3025e-05  eta: 1 day, 22:07:58  time: 0.5860  data_time: 0.0103  memory: 6800  loss: 0.0943  decode.loss_ce: 0.0943  decode.acc_seg: 98.2091
+08/06 08:51:12 - mmengine - INFO - Iter(train) [ 39900/320000]  base_lr: 5.3016e-05 lr: 5.3016e-05  eta: 1 day, 22:07:25  time: 0.5834  data_time: 0.0100  memory: 6800  loss: 0.0412  decode.loss_ce: 0.0412  decode.acc_seg: 98.0291
+08/06 08:51:41 - mmengine - INFO - Iter(train) [ 39950/320000]  base_lr: 5.3006e-05 lr: 5.3006e-05  eta: 1 day, 22:06:53  time: 0.5870  data_time: 0.0100  memory: 6800  loss: 0.0704  decode.loss_ce: 0.0704  decode.acc_seg: 97.7753
+08/06 08:52:11 - mmengine - INFO - Exp name: segformer_mit-b3_8xb1-160k_mydataset-512x1024_20250806_021649
+08/06 08:52:11 - mmengine - INFO - Iter(train) [ 40000/320000]  base_lr: 5.2997e-05 lr: 5.2997e-05  eta: 1 day, 22:06:22  time: 0.5857  data_time: 0.0100  memory: 6800  loss: 0.0475  decode.loss_ce: 0.0475  decode.acc_seg: 97.4724
+08/06 08:52:11 - mmengine - INFO - Saving checkpoint at 40000 iterations
+08/06 08:52:25 - mmengine - INFO - Iter(val) [  50/1587]    eta: 0:06:43  time: 0.2915  data_time: 0.0043  memory: 5107  
+08/06 08:52:38 - mmengine - INFO - Iter(val) [ 100/1587]    eta: 0:06:18  time: 0.2480  data_time: 0.0044  memory: 1568  
+08/06 08:52:50 - mmengine - INFO - Iter(val) [ 150/1587]    eta: 0:06:02  time: 0.2490  data_time: 0.0042  memory: 1568  
+08/06 08:53:03 - mmengine - INFO - Iter(val) [ 200/1587]    eta: 0:05:49  time: 0.2486  data_time: 0.0042  memory: 1568  
+08/06 08:53:15 - mmengine - INFO - Iter(val) [ 250/1587]    eta: 0:05:36  time: 0.2505  data_time: 0.0042  memory: 1568  
+08/06 08:53:28 - mmengine - INFO - Iter(val) [ 300/1587]    eta: 0:05:23  time: 0.2519  data_time: 0.0043  memory: 1568  
