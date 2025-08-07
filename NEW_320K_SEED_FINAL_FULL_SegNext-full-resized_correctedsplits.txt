@@ -7451,3 +7451,106 @@ unexpected key in source state_dict: head.weight, head.bias
 08/08 03:46:24 - mmengine - INFO - Iter(train) [279800/320000]  base_lr: 7.6089e-06 lr: 7.6089e-06  eta: 7:02:53  time: 0.6323  data_time: 0.0153  memory: 9569  loss: 0.0471  decode.loss_ce: 0.0471  decode.acc_seg: 98.7574
 08/08 03:46:55 - mmengine - INFO - Iter(train) [279850/320000]  base_lr: 7.5994e-06 lr: 7.5994e-06  eta: 7:02:21  time: 0.6312  data_time: 0.0148  memory: 9569  loss: 0.0315  decode.loss_ce: 0.0315  decode.acc_seg: 98.1296
 08/08 03:47:27 - mmengine - INFO - Iter(train) [279900/320000]  base_lr: 7.5899e-06 lr: 7.5899e-06  eta: 7:01:50  time: 0.6308  data_time: 0.0147  memory: 9569  loss: 0.0318  decode.loss_ce: 0.0318  decode.acc_seg: 97.7940
+08/08 03:47:58 - mmengine - INFO - Iter(train) [279950/320000]  base_lr: 7.5805e-06 lr: 7.5805e-06  eta: 7:01:18  time: 0.6309  data_time: 0.0148  memory: 9569  loss: 0.0329  decode.loss_ce: 0.0329  decode.acc_seg: 98.9275
+08/08 03:48:30 - mmengine - INFO - Exp name: segnext_mscan-l_1xb16-adamw-80k_mYDATA-512x512_20250806_021656
+08/08 03:48:30 - mmengine - INFO - Iter(train) [280000/320000]  base_lr: 7.5710e-06 lr: 7.5710e-06  eta: 7:00:46  time: 0.6311  data_time: 0.0147  memory: 9569  loss: 0.0347  decode.loss_ce: 0.0347  decode.acc_seg: 98.8841
+08/08 03:48:30 - mmengine - INFO - Saving checkpoint at 280000 iterations
+08/08 03:48:41 - mmengine - INFO - Iter(val) [  50/1587]    eta: 0:04:14  time: 0.1634  data_time: 0.0045  memory: 1165  
+08/08 03:48:49 - mmengine - INFO - Iter(val) [ 100/1587]    eta: 0:04:04  time: 0.1636  data_time: 0.0046  memory: 1165  
+08/08 03:48:57 - mmengine - INFO - Iter(val) [ 150/1587]    eta: 0:03:56  time: 0.1641  data_time: 0.0045  memory: 1165  
+08/08 03:49:06 - mmengine - INFO - Iter(val) [ 200/1587]    eta: 0:03:47  time: 0.1639  data_time: 0.0044  memory: 1165  
+08/08 03:49:14 - mmengine - INFO - Iter(val) [ 250/1587]    eta: 0:03:39  time: 0.1648  data_time: 0.0047  memory: 1165  
+08/08 03:49:22 - mmengine - INFO - Iter(val) [ 300/1587]    eta: 0:03:31  time: 0.1645  data_time: 0.0045  memory: 1165  
+08/08 03:49:30 - mmengine - INFO - Iter(val) [ 350/1587]    eta: 0:03:23  time: 0.1647  data_time: 0.0046  memory: 1165  
+08/08 03:49:38 - mmengine - INFO - Iter(val) [ 400/1587]    eta: 0:03:15  time: 0.1643  data_time: 0.0045  memory: 1165  
+08/08 03:49:47 - mmengine - INFO - Iter(val) [ 450/1587]    eta: 0:03:06  time: 0.1650  data_time: 0.0046  memory: 1165  
+08/08 03:49:55 - mmengine - INFO - Iter(val) [ 500/1587]    eta: 0:02:58  time: 0.1646  data_time: 0.0045  memory: 1165  
+08/08 03:50:03 - mmengine - INFO - Iter(val) [ 550/1587]    eta: 0:02:50  time: 0.1649  data_time: 0.0045  memory: 1165  
+08/08 03:50:11 - mmengine - INFO - Iter(val) [ 600/1587]    eta: 0:02:42  time: 0.1648  data_time: 0.0046  memory: 1165  
+08/08 03:50:20 - mmengine - INFO - Iter(val) [ 650/1587]    eta: 0:02:34  time: 0.1653  data_time: 0.0047  memory: 1165  
+08/08 03:50:28 - mmengine - INFO - Iter(val) [ 700/1587]    eta: 0:02:25  time: 0.1645  data_time: 0.0044  memory: 1165  
+08/08 03:50:36 - mmengine - INFO - Iter(val) [ 750/1587]    eta: 0:02:17  time: 0.1649  data_time: 0.0045  memory: 1165  
+08/08 03:50:44 - mmengine - INFO - Iter(val) [ 800/1587]    eta: 0:02:09  time: 0.1647  data_time: 0.0045  memory: 1165  
+08/08 03:50:53 - mmengine - INFO - Iter(val) [ 850/1587]    eta: 0:02:01  time: 0.1652  data_time: 0.0046  memory: 1165  
+08/08 03:51:01 - mmengine - INFO - Iter(val) [ 900/1587]    eta: 0:01:53  time: 0.1648  data_time: 0.0045  memory: 1165  
+08/08 03:51:09 - mmengine - INFO - Iter(val) [ 950/1587]    eta: 0:01:44  time: 0.1648  data_time: 0.0045  memory: 1165  
+08/08 03:51:17 - mmengine - INFO - Iter(val) [1000/1587]    eta: 0:01:36  time: 0.1646  data_time: 0.0044  memory: 1165  
+08/08 03:51:26 - mmengine - INFO - Iter(val) [1050/1587]    eta: 0:01:28  time: 0.1650  data_time: 0.0046  memory: 1165  
+08/08 03:51:32 - mmengine - INFO - Iter(val) [1100/1587]    eta: 0:01:19  time: 0.1237  data_time: 0.0038  memory: 1165  
+08/08 03:51:38 - mmengine - INFO - Iter(val) [1150/1587]    eta: 0:01:10  time: 0.1237  data_time: 0.0038  memory: 1018  
+08/08 03:51:45 - mmengine - INFO - Iter(val) [1200/1587]    eta: 0:01:01  time: 0.1239  data_time: 0.0039  memory: 1018  
+08/08 03:51:51 - mmengine - INFO - Iter(val) [1250/1587]    eta: 0:00:53  time: 0.1242  data_time: 0.0040  memory: 1018  
+08/08 03:51:57 - mmengine - INFO - Iter(val) [1300/1587]    eta: 0:00:45  time: 0.1247  data_time: 0.0041  memory: 1018  
+08/08 03:52:03 - mmengine - INFO - Iter(val) [1350/1587]    eta: 0:00:36  time: 0.1240  data_time: 0.0039  memory: 1018  
+08/08 03:52:09 - mmengine - INFO - Iter(val) [1400/1587]    eta: 0:00:28  time: 0.1233  data_time: 0.0037  memory: 1018  
+08/08 03:52:16 - mmengine - INFO - Iter(val) [1450/1587]    eta: 0:00:21  time: 0.1233  data_time: 0.0036  memory: 1018  
+08/08 03:52:22 - mmengine - INFO - Iter(val) [1500/1587]    eta: 0:00:13  time: 0.1234  data_time: 0.0037  memory: 1018  
+08/08 03:52:28 - mmengine - INFO - Iter(val) [1550/1587]    eta: 0:00:05  time: 0.1234  data_time: 0.0037  memory: 1018  
+08/08 03:52:32 - mmengine - INFO - per class results:
+08/08 03:52:32 - mmengine - INFO - 
++------------------------------------+-------+-------+
+|               Class                |  IoU  |  Acc  |
++------------------------------------+-------+-------+
+|             background             | 98.99 | 99.47 |
+|            Aloo Dry fry            | 95.05 | 97.54 |
+|      Avakaya Muddha Papu Rice      | 96.21 | 98.18 |
+|      Baby-Corn & Capsicum-Dry      | 92.98 |  96.3 |
+|           Cabbage Pakodi           |  89.4 | 93.54 |
+|            Cabbage fry             | 94.24 | 97.63 |
+|       Capsicum Paneer Curry        | 92.52 | 96.25 |
+|           Chakar-Pongal            | 78.59 | 80.84 |
+|            Chole-Masala            | 94.07 |  97.8 |
+|        Cluster Beans Curry         | 90.88 | 94.14 |
+|          Cucumber-Raitha           | 79.51 | 81.38 |
+|         Gobi Masala Curry          |  93.2 | 96.42 |
+|        Gutti Vankaya Curry         | 93.18 |  96.7 |
+|             Jeera Rice             | 94.38 | 97.38 |
+|            Mixed Curry             | 93.51 | 98.03 |
+|             Muskmelon              | 94.52 | 97.32 |
+|               Rajma                | 90.72 |  98.2 |
+|              Rasgulla              | 96.31 | 98.29 |
+|               Sambar               | 93.74 | 97.68 |
+|            Tomato Rasam            | 94.27 | 97.91 |
+|         Vankaya-Ali-Karam          | 89.34 | 96.73 |
+|            Veg-Biriyani            | 93.16 |  96.9 |
+|             aloo-curry             | 94.69 | 97.69 |
+|                curd                | 94.59 | 97.34 |
+|                dal                 | 93.98 | 96.85 |
+|           fresh-chutney            | 91.66 | 95.59 |
+|            green-salad             | 93.52 |  96.3 |
+|         Moong-Beans-Curry          | 94.62 | 97.44 |
+|              khichdi               | 94.57 | 97.24 |
+|             lemon-rice             | 94.46 | 97.36 |
+|        live-roti-with-ghee         | 97.72 | 98.87 |
+|    non-spicy-curry-bottle-gourd    | 94.12 | 97.35 |
+|               papad                | 93.11 | 95.78 |
+|             plain-rice             | 95.32 | 97.74 |
+|             watermelon             | 95.18 | 97.88 |
+|              Aloo-Fry              | 91.88 | 96.34 |
+|               Banana               |  96.4 | 98.04 |
+|             Mix-Fruit              | 95.73 | 97.74 |
+| Non-Spicy-Baby-Corn & Capsicum-Dry | 88.97 | 92.94 |
+|               Sweet                | 93.91 | 95.53 |
+|            Tomato-Rice             | 96.08 | 97.75 |
+|         fried-papad-rings          | 92.15 | 96.31 |
+|               gravy                | 91.94 |  95.0 |
+|           ivy-gourd-fry            | 94.85 | 97.82 |
+|            mango-pickle            | 91.25 | 94.31 |
+|             papad-chat             | 92.31 | 97.23 |
+|            pepper-rasam            | 95.55 | 97.45 |
+|             pineapple              | 87.03 | 96.86 |
+|              corn-fry              | 88.53 | 94.51 |
+|            paneer-curry            | 92.34 | 95.58 |
+|               semiya               | 91.95 | 95.88 |
++------------------------------------+-------+-------+
+08/08 03:52:32 - mmengine - INFO - Iter(val) [1587/1587]    aAcc: 99.1200  mIoU: 92.8900  mAcc: 96.2200  data_time: 0.0044  time: 0.1510
+08/08 03:53:04 - mmengine - INFO - Iter(train) [280050/320000]  base_lr: 7.5615e-06 lr: 7.5615e-06  eta: 7:00:15  time: 0.6330  data_time: 0.0147  memory: 9569  loss: 0.0339  decode.loss_ce: 0.0339  decode.acc_seg: 97.6548
+08/08 03:53:36 - mmengine - INFO - Iter(train) [280100/320000]  base_lr: 7.5521e-06 lr: 7.5521e-06  eta: 6:59:43  time: 0.6315  data_time: 0.0146  memory: 9569  loss: 0.0324  decode.loss_ce: 0.0324  decode.acc_seg: 98.2185
+08/08 03:54:08 - mmengine - INFO - Iter(train) [280150/320000]  base_lr: 7.5426e-06 lr: 7.5426e-06  eta: 6:59:12  time: 0.6318  data_time: 0.0148  memory: 9569  loss: 0.0462  decode.loss_ce: 0.0462  decode.acc_seg: 98.2144
+08/08 03:54:39 - mmengine - INFO - Iter(train) [280200/320000]  base_lr: 7.5331e-06 lr: 7.5331e-06  eta: 6:58:40  time: 0.6320  data_time: 0.0148  memory: 9569  loss: 0.0372  decode.loss_ce: 0.0372  decode.acc_seg: 98.4677
+08/08 03:55:11 - mmengine - INFO - Iter(train) [280250/320000]  base_lr: 7.5237e-06 lr: 7.5237e-06  eta: 6:58:09  time: 0.6315  data_time: 0.0148  memory: 9569  loss: 0.0346  decode.loss_ce: 0.0346  decode.acc_seg: 98.2107
+08/08 03:55:42 - mmengine - INFO - Iter(train) [280300/320000]  base_lr: 7.5142e-06 lr: 7.5142e-06  eta: 6:57:37  time: 0.6324  data_time: 0.0150  memory: 9569  loss: 0.0339  decode.loss_ce: 0.0339  decode.acc_seg: 98.1358
+08/08 03:56:14 - mmengine - INFO - Iter(train) [280350/320000]  base_lr: 7.5048e-06 lr: 7.5048e-06  eta: 6:57:06  time: 0.6331  data_time: 0.0151  memory: 9569  loss: 0.0341  decode.loss_ce: 0.0341  decode.acc_seg: 97.7930
+08/08 03:56:46 - mmengine - INFO - Iter(train) [280400/320000]  base_lr: 7.4953e-06 lr: 7.4953e-06  eta: 6:56:34  time: 0.6310  data_time: 0.0146  memory: 9569  loss: 0.0380  decode.loss_ce: 0.0380  decode.acc_seg: 96.4490
+08/08 03:57:17 - mmengine - INFO - Iter(train) [280450/320000]  base_lr: 7.4858e-06 lr: 7.4858e-06  eta: 6:56:02  time: 0.6331  data_time: 0.0151  memory: 9569  loss: 0.0341  decode.loss_ce: 0.0341  decode.acc_seg: 98.1779
+08/08 03:57:49 - mmengine - INFO - Iter(train) [280500/320000]  base_lr: 7.4764e-06 lr: 7.4764e-06  eta: 6:55:31  time: 0.6314  data_time: 0.0151  memory: 9569  loss: 0.0444  decode.loss_ce: 0.0444  decode.acc_seg: 98.9140
