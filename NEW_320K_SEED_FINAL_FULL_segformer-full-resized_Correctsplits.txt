@@ -8403,3 +8403,77 @@ after_run:
 08/08 07:39:53 - mmengine - INFO - Iter(val) [ 750/1587]    eta: 0:03:15  time: 0.2341  data_time: 0.0040  memory: 1565  
 08/08 07:40:05 - mmengine - INFO - Iter(val) [ 800/1587]    eta: 0:03:03  time: 0.2317  data_time: 0.0042  memory: 1565  
 08/08 07:40:16 - mmengine - INFO - Iter(val) [ 850/1587]    eta: 0:02:51  time: 0.2318  data_time: 0.0040  memory: 1565  
+08/08 07:40:28 - mmengine - INFO - Iter(val) [ 900/1587]    eta: 0:02:40  time: 0.2321  data_time: 0.0040  memory: 1565  
+08/08 07:40:40 - mmengine - INFO - Iter(val) [ 950/1587]    eta: 0:02:28  time: 0.2315  data_time: 0.0040  memory: 1568  
+08/08 07:40:51 - mmengine - INFO - Iter(val) [1000/1587]    eta: 0:02:16  time: 0.2331  data_time: 0.0040  memory: 1568  
+08/08 07:41:03 - mmengine - INFO - Iter(val) [1050/1587]    eta: 0:02:05  time: 0.2325  data_time: 0.0040  memory: 1568  
+08/08 07:41:11 - mmengine - INFO - Iter(val) [1100/1587]    eta: 0:01:51  time: 0.1495  data_time: 0.0034  memory: 1568  
+08/08 07:41:19 - mmengine - INFO - Iter(val) [1150/1587]    eta: 0:01:38  time: 0.1508  data_time: 0.0035  memory: 1292  
+08/08 07:41:26 - mmengine - INFO - Iter(val) [1200/1587]    eta: 0:01:26  time: 0.1503  data_time: 0.0035  memory: 1292  
+08/08 07:41:34 - mmengine - INFO - Iter(val) [1250/1587]    eta: 0:01:14  time: 0.1507  data_time: 0.0034  memory: 1292  
+08/08 07:41:41 - mmengine - INFO - Iter(val) [1300/1587]    eta: 0:01:02  time: 0.1490  data_time: 0.0034  memory: 1292  
+08/08 07:41:49 - mmengine - INFO - Iter(val) [1350/1587]    eta: 0:00:50  time: 0.1492  data_time: 0.0034  memory: 1292  
+08/08 07:41:56 - mmengine - INFO - Iter(val) [1400/1587]    eta: 0:00:39  time: 0.1486  data_time: 0.0034  memory: 1292  
+08/08 07:42:04 - mmengine - INFO - Iter(val) [1450/1587]    eta: 0:00:28  time: 0.1498  data_time: 0.0035  memory: 1292  
+08/08 07:42:11 - mmengine - INFO - Iter(val) [1500/1587]    eta: 0:00:18  time: 0.1491  data_time: 0.0034  memory: 1292  
+08/08 07:42:19 - mmengine - INFO - Iter(val) [1550/1587]    eta: 0:00:07  time: 0.1500  data_time: 0.0034  memory: 1292  
+08/08 07:42:24 - mmengine - INFO - per class results:
+08/08 07:42:24 - mmengine - INFO - 
++------------------------------------+-------+-------+
+|               Class                |  IoU  |  Acc  |
++------------------------------------+-------+-------+
+|             background             | 98.96 | 99.52 |
+|            Aloo Dry fry            | 94.84 | 96.79 |
+|      Avakaya Muddha Papu Rice      | 95.86 | 97.31 |
+|      Baby-Corn & Capsicum-Dry      | 92.23 | 95.93 |
+|           Cabbage Pakodi           | 88.76 |  92.0 |
+|            Cabbage fry             | 94.14 | 96.85 |
+|       Capsicum Paneer Curry        | 92.28 | 96.07 |
+|           Chakar-Pongal            | 77.62 | 80.98 |
+|            Chole-Masala            | 93.36 | 97.16 |
+|        Cluster Beans Curry         | 90.48 |  92.4 |
+|          Cucumber-Raitha           | 78.91 |  80.7 |
+|         Gobi Masala Curry          | 92.48 | 95.88 |
+|        Gutti Vankaya Curry         | 93.03 | 96.02 |
+|             Jeera Rice             | 94.38 | 96.57 |
+|            Mixed Curry             | 93.61 | 97.06 |
+|             Muskmelon              | 94.09 | 96.53 |
+|               Rajma                | 90.62 | 97.18 |
+|              Rasgulla              | 95.08 | 97.12 |
+|               Sambar               | 93.98 | 97.63 |
+|            Tomato Rasam            | 93.83 |  96.9 |
+|         Vankaya-Ali-Karam          | 88.07 | 95.15 |
+|            Veg-Biriyani            | 92.91 | 96.61 |
+|             aloo-curry             | 94.27 |  97.0 |
+|                curd                | 93.93 | 96.62 |
+|                dal                 |  93.6 | 96.89 |
+|           fresh-chutney            | 91.37 | 94.87 |
+|            green-salad             | 92.97 | 95.58 |
+|         Moong-Beans-Curry          | 94.39 | 96.82 |
+|              khichdi               | 94.31 | 96.53 |
+|             lemon-rice             |  94.8 | 97.08 |
+|        live-roti-with-ghee         | 97.63 | 98.52 |
+|    non-spicy-curry-bottle-gourd    | 93.53 | 96.22 |
+|               papad                |  93.4 | 95.63 |
+|             plain-rice             |  95.3 | 97.33 |
+|             watermelon             | 95.15 | 97.36 |
+|              Aloo-Fry              | 91.52 | 95.86 |
+|               Banana               | 95.51 | 96.92 |
+|             Mix-Fruit              | 95.41 | 97.43 |
+| Non-Spicy-Baby-Corn & Capsicum-Dry | 89.06 |  92.7 |
+|               Sweet                | 94.08 | 96.51 |
+|            Tomato-Rice             | 95.76 | 97.45 |
+|         fried-papad-rings          | 90.63 | 95.02 |
+|               gravy                | 91.28 | 94.86 |
+|           ivy-gourd-fry            | 95.16 | 97.99 |
+|            mango-pickle            |  91.7 | 95.05 |
+|             papad-chat             | 92.39 | 97.23 |
+|            pepper-rasam            | 95.46 | 97.24 |
+|             pineapple              | 94.38 | 97.13 |
+|              corn-fry              | 89.02 |  94.7 |
+|            paneer-curry            | 93.32 | 97.78 |
+|               semiya               | 92.04 | 95.97 |
++------------------------------------+-------+-------+
+08/08 07:42:24 - mmengine - INFO - Iter(val) [1587/1587]    aAcc: 99.1000  mIoU: 92.7600  mAcc: 95.7800  data_time: 0.0039  time: 0.2052
+08/08 07:42:24 - mmengine - INFO - The previous best checkpoint /scratch/seg_benchmark/NEW/segformer-mitb3-FUll-resized_seed_320K/best_mIoU_iter_280000.pth is removed
+08/08 07:42:25 - mmengine - INFO - The best checkpoint with 92.7600 mIoU at 320000 iter is saved to best_mIoU_iter_320000.pth.
